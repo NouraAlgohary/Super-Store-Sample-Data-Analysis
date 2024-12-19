@@ -1,7 +1,7 @@
 # Super-Store-Sample-Data-Analysis
 This Tableau Data Analysis project revolves around exploring the Superstore Sample dataset. The objective is to derive meaningful insights and create impactful visualizations to aid decision-making. Below is a brief summary of the project's key components and outcomes.
 
-You can view my interactive Power BI Report [here](https://public.tableau.com/app/profile/noura.algohary/viz/SuperStoreSampleProject/ProductDashboard).
+You can view my interactive Tableau Dashboard [here](https://public.tableau.com/app/profile/noura.algohary/viz/SuperStoreSampleProject/ProductDashboard).
 
 ## Implementation Highlights:
 ### Data Preparation:
